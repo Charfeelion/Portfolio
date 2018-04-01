@@ -1,0 +1,11 @@
+F:\PROG 120\PokerProjectStart\CardLibrary\bin\Debug\CardLibrary.dll
+F:\PROG 120\PokerProjectStart\CardLibrary\bin\Debug\CardLibrary.pdb
+F:\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+F:\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.dll
+F:\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.pdb
+E:\PROG 120\PokerProjectStart\CardLibrary\bin\Debug\CardLibrary.dll
+E:\PROG 120\PokerProjectStart\CardLibrary\bin\Debug\CardLibrary.pdb
+E:\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.csprojResolveAssemblyReference.cache
+E:\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+E:\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.dll
+E:\PROG 120\PokerProjectStart\CardLibrary\obj\Debug\CardLibrary.pdb

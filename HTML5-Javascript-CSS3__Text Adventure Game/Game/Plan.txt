@@ -1,0 +1,14 @@
+--Game Assignment--
+Thoughtform moving through scale of the universe
+goal is to "learn" about things and "create" what you've learned
+Boltzmann brain
+Complete the game when you have made a home planet?
+--When you've made a new universe?
+
+can move to:
+-universe
+-Superclusters (ours laniakea)
+-Local group (virgo super cluster)
+-Galaxy (milky way)
+ --Center (blackhole)
+ --
