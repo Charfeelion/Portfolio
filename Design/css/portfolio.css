@@ -1,0 +1,175 @@
+@charset "utf-8";
+.navbar-default {
+  background-color: #3a383a;
+  border-color: #7fd7ff;
+}
+.navbar-default .navbar-brand {
+  color: #97bbca;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #ffffff;
+}
+.navbar-brand {
+	background-image: url(../images/crystal.svg);
+	background-size: 51px auto;
+	background-repeat: no-repeat;
+	padding-left: 78px;
+	background-position: 0% 0;
+}
+
+.navbar-default .navbar-text {
+  color: #97bbca;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #97bbca;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+  background-color: #3a383a;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+  color: #97bbca;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+  color: #ffffff;
+  background-color: #7fd7ff;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li.divider {
+  background-color: #7fd7ff;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+  color: #ffffff;
+  background-color: #7fd7ff;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #7fd7ff;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #ffffff;
+  background-color: #7fd7ff;
+}
+.navbar-default .navbar-toggle {
+  border-color: #7fd7ff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #7fd7ff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #97bbca;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #97bbca;
+}
+.navbar-default .navbar-link {
+  color: #97bbca;
+}
+.navbar-default .navbar-link:hover {
+  color: #ffffff;
+}
+.navbar-toggle {
+	color: #FFFFFF;
+
+}
+body {
+	background-color: #000000;
+}
+.navbar-brand {
+	background-image: url(../images/crystal.png);
+}
+#mountain h1 {
+	position: absolute;
+	color: #C8E9EF;
+	font-size: 7em;
+	text-shadow: 2px 2px 2px;
+	left: 30px;
+	right: 0px;
+	top: 26px;
+    font-family: 'Great Vibes', cursive;
+}
+.col-sm-8.col-sm-offset-0 article {
+	padding-top: 15px;
+	color: #CBCBCB;
+	padding-bottom: 15px;
+}
+
+
+
+
+
+
+@media (max-width: 649px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #97bbca;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ffffff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ffffff;
+    background-color: #7fd7ff;
+  }
+#mountain {
+}
+#mountain h1 {
+	font-size: 2em;
+}
+
+
+}
+#mountainH1 {
+	position: absolute;
+}
+
+@media screen and (min-width:650px) and (max-width:959px){
+#mountain h1 {
+	font-size: 4em;
+}
+
+}
+#footer {
+}
+#footer {
+	color: #A09F9F;
+	padding-top: 10px;
+	text-align: center;
+	border: thin solid #878787;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 200px;
+	margin-left: 200px;
+	padding-bottom: 10px;
+}
+#carousel1 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.carousel-inner .item .center-block {
+}
+.embed-responsive.embed-responsive-16by9 {
+
+}
+.embed-responsive-item {
+	width: 600px;
+	height: 400px;
+}
+.embed-responsive.embed-responsive-16by9 {
+	width: 600px;
+	height: 400px;
+}
